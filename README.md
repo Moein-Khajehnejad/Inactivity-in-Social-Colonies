@@ -5,26 +5,20 @@ Our model confirms that in the case of worker loss, prior homeostatic balance is
 
 "**Explaining workers' inactivity in social colonies from first principles**" 
 
-Moein Khajehnejad, Julian Garcia, Bernd Meyer
+Moein Khajehnejad, Julian García, Bernd Meyer
 
 ## Model Structure 
-### Schematic diagram of different steps in the social learning paradigm from an EGT-based perspective. 
+#### Schematic diagram of different steps in the social learning paradigm from an EGT-based perspective. 
 
-![schematic](https://user-images.githubusercontent.com/22978025/173978596-b93a95d5-1ce9-4fee-80b7-4534c7ecba1c.png)
+<img width="600" alt="![schematic]" src="https://user-images.githubusercontent.com/22978025/173978596-b93a95d5-1ce9-4fee-80b7-4534c7ecba1c.png">
 
 ## Python Requirements
-numpy
-
-math
-
-from scipy.optimize import differential_evolution
-
-from scipy.stats import entropy
-
-time
-
-multiprocessing
-
+numpy<br />
+math<br />
+from scipy.optimize import differential_evolution<br />
+from scipy.stats import entropy<br />
+time<br />
+multiprocessing<br />
 from pylab import rcParams
  
 
@@ -47,5 +41,5 @@ from pylab import rcParams
 -  Scatterplots illustrating the evolution of population traits in time
 -  A heatmap representing the systme's efficiency in the ($w$, $b_1$ )  parameter space.
 
-## Cite NNPoisson
+## Cite Our Work
 If you find this model useful to your work, please also cite our paper.
