@@ -39,7 +39,7 @@ from pylab import rcParams
 
 **Outputs:** The output would be:
 -  Scatterplots illustrating the evolution of population traits in time
--  A heatmap representing the systme's efficiency in the ($w$ , $b_1$ )  parameter space.
+-  A heatmap representing the systme's efficiency in the ( $w$ , $b_1$ )  parameter space.
 
 ## Cite Our Work
 If you find this model useful to your work, please also cite our paper.
