@@ -1,4 +1,4 @@
-# WORKERS-INACTIVITY-IN-SOCIAL-COLONIES (EGT framework)
+# WORKERS INACTIVITY IN SOCIAL COLONIES (EGT framework)
 
 Surprisingly, the nature's most efficient social organization often have a large proportion of inactive workers in their workforce, sometimes referred to as _lazy workers_. Here, using a simple mathematical model, we show that a parsimonious hypothesis can explain this puzzling social phenomenon. Our model incorporates social interactions and environmental influences into an evolutionary game theoretical (EGT) framework and captures how individuals react to environment by allocating their activity according to environmental conditions. This model shows that inactivity can emerge under specific environmental conditions as a byproduct of the task allocation process.
 Our model confirms that in the case of worker loss, prior homeostatic balance is re-established by replacing some of the lost force with previously inactive workers. Most importantly, our model shows that inactivity in social colonies can be explained without the need to assume an adaptive function for this phenomenon. 
